@@ -1,0 +1,4 @@
+# Override global gitignore
+!*
+node_modules
+package-lock.json
